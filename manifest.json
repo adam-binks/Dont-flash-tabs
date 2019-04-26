@@ -5,10 +5,8 @@
 	"permissions": [
 			"tabs",
 			"activeTab",
-            "storage",
-			"http://*/",
-			"https://*/",
-            "file://*/"
+			"https://www.messenger.com/*",
+			"https://www.facebook.com/*"
 	],
 	"background": {
 		"scripts": ["background.js"],
